@@ -537,5 +537,7 @@ iframe {
 @media (min-width: 1400px) {
   .container {
     width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
