@@ -1,0 +1,33 @@
+body {
+	background-color: #000;
+	color: #dddddd;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 848px;
+	height: 520px;
+}
+
+#content {
+	font-family: Cambria, Georgia, Times, "Times New Roman", serif; 
+	padding-top: 2.5em;
+	padding-bottom: 4em;
+	line-height: 175%;
+	font-size: 1.1em;
+	color: #dddddd;
+}
+
+#audio {
+	width: 848px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.hidden {
+	visibility: hidden;
+}
